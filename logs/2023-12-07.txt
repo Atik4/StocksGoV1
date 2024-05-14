@@ -1,0 +1,602 @@
+
+1701941844068 :: history :: {'symbol': 'NSE:APOLLOTYRE-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941844626 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941845136 :: history :: {'symbol': 'NSE:ASTRAL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941845405 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941845924 :: history :: {'symbol': 'NSE:ABFRL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941846124 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941846657 :: history :: {'symbol': 'NSE:ALKEM-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941846861 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941847374 :: history :: {'symbol': 'NSE:AARTIIND-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941847608 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941848128 :: history :: {'symbol': 'NSE:ABB-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941848330 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941848863 :: history :: {'symbol': 'NSE:BEL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941849112 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941849631 :: history :: {'symbol': 'NSE:AUBANK-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941849841 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941850371 :: history :: {'symbol': 'NSE:BAJFINANCE-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941850630 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941851169 :: history :: {'symbol': 'NSE:BATAINDIA-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941851482 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941852015 :: history :: {'symbol': 'NSE:BERGEPAINT-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941852219 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941852760 :: history :: {'symbol': 'NSE:ASHOKLEY-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941852961 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941853475 :: history :: {'symbol': 'NSE:ABBOTINDIA-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941853684 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941854218 :: history :: {'symbol': 'NSE:ABCAPITAL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941854439 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941854968 :: history :: {'symbol': 'NSE:COFORGE-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941855169 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941855703 :: history :: {'symbol': 'NSE:ASIANPAINT-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941855915 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941856426 :: history :: {'symbol': 'NSE:ADANIENT-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941856620 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941857157 :: history :: {'symbol': 'NSE:ADANIPORTS-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941857391 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941857913 :: history :: {'symbol': 'NSE:BAJAJ-AUTO-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941858114 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941858622 :: history :: {'symbol': 'NSE:DIVISLAB-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941858852 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941859368 :: history :: {'symbol': 'NSE:AMBUJACEM-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941859570 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941860106 :: history :: {'symbol': 'NSE:DIXON-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941860313 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941860826 :: history :: {'symbol': 'NSE:APOLLOHOSP-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941861033 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941861559 :: history :: {'symbol': 'NSE:EICHERMOT-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941861803 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941862321 :: history :: {'symbol': 'NSE:GODREJCP-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941862586 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941863161 :: history :: {'symbol': 'NSE:GRASIM-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941863353 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941863940 :: history :: {'symbol': 'NSE:GUJGASLTD-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941864203 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941864785 :: history :: {'symbol': 'NSE:ATUL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941864996 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941865511 :: history :: {'symbol': 'NSE:HCLTECH-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941865716 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941866227 :: history :: {'symbol': 'NSE:HDFCLIFE-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941866442 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941866964 :: history :: {'symbol': 'NSE:BALRAMCHIN-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941867164 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941867673 :: history :: {'symbol': 'NSE:BANDHANBNK-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941867882 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941868411 :: history :: {'symbol': 'NSE:BHARATFORG-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941868647 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941869163 :: history :: {'symbol': 'NSE:IDFC-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941869366 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941869876 :: history :: {'symbol': 'NSE:BHARTIARTL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941870068 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941870581 :: history :: {'symbol': 'NSE:BHEL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941870782 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941871359 :: history :: {'symbol': 'NSE:BOSCHLTD-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941871576 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941872109 :: history :: {'symbol': 'NSE:BPCL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941872320 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941872860 :: history :: {'symbol': 'NSE:BRITANNIA-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941873067 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941873582 :: history :: {'symbol': 'NSE:BSOFT-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941873821 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941874361 :: history :: {'symbol': 'NSE:IDFCFIRSTB-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941874551 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941875058 :: history :: {'symbol': 'NSE:CANFINHOME-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941875335 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941875859 :: history :: {'symbol': 'NSE:INDHOTEL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941876069 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941876583 :: history :: {'symbol': 'NSE:CHOLAFIN-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941876780 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941877306 :: history :: {'symbol': 'NSE:COLPAL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941877701 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941878217 :: history :: {'symbol': 'NSE:COROMANDEL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941878423 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941878933 :: history :: {'symbol': 'NSE:CROMPTON-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941879130 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941879662 :: history :: {'symbol': 'NSE:DABUR-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941879861 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941880377 :: history :: {'symbol': 'NSE:DALBHARAT-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941880655 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941881171 :: history :: {'symbol': 'NSE:INDIGO-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941881367 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941881878 :: history :: {'symbol': 'NSE:DEEPAKNTR-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941882083 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941882612 :: history :: {'symbol': 'NSE:DELTACORP-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941882857 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941883374 :: history :: {'symbol': 'NSE:BANKBARODA-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941883586 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941884114 :: history :: {'symbol': 'NSE:DLF-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941884315 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941884830 :: history :: {'symbol': 'NSE:INFY-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941885023 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941885535 :: history :: {'symbol': 'NSE:DRREDDY-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941885731 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941886261 :: history :: {'symbol': 'NSE:ESCORTS-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941886468 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941886982 :: history :: {'symbol': 'NSE:MARUTI-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941887165 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941887675 :: history :: {'symbol': 'NSE:FEDERALBNK-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941887885 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941888415 :: history :: {'symbol': 'NSE:MCDOWELL-N-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941888604 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941889119 :: history :: {'symbol': 'NSE:GAIL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941889300 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941889815 :: history :: {'symbol': 'NSE:MFSL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941890009 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941890522 :: history :: {'symbol': 'NSE:GLENMARK-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941890722 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941891236 :: history :: {'symbol': 'NSE:GMRINFRA-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941891449 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941892033 :: history :: {'symbol': 'NSE:GNFC-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941892251 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941892763 :: history :: {'symbol': 'NSE:NATIONALUM-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941893011 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941893582 :: history :: {'symbol': 'NSE:HAL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941893781 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941894322 :: history :: {'symbol': 'NSE:HAVELLS-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941894535 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941895060 :: history :: {'symbol': 'NSE:HDFCBANK-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941895301 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941895813 :: history :: {'symbol': 'NSE:NAUKRI-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941896016 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941896527 :: history :: {'symbol': 'NSE:HEROMOTOCO-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941896741 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941897270 :: history :: {'symbol': 'NSE:HINDALCO-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941897514 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941898027 :: history :: {'symbol': 'NSE:HINDCOPPER-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941898227 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941898763 :: history :: {'symbol': 'NSE:HINDPETRO-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941898965 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941899487 :: history :: {'symbol': 'NSE:IBULHSGFIN-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941899742 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941900267 :: history :: {'symbol': 'NSE:ICICIGI-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941900478 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941901017 :: history :: {'symbol': 'NSE:ICICIPRULI-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941901261 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941901775 :: history :: {'symbol': 'NSE:IEX-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941902024 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941902560 :: history :: {'symbol': 'NSE:IGL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941902763 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941903278 :: history :: {'symbol': 'NSE:INDIACEM-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941903484 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941904013 :: history :: {'symbol': 'NSE:INDIAMART-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941904230 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941904768 :: history :: {'symbol': 'NSE:INDUSTOWER-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941904978 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941905511 :: history :: {'symbol': 'NSE:INTELLECT-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941905721 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941906254 :: history :: {'symbol': 'NSE:IOC-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941906465 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941906975 :: history :: {'symbol': 'NSE:IPCALAB-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941907204 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941907720 :: history :: {'symbol': 'NSE:IRCTC-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941907922 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941908457 :: history :: {'symbol': 'NSE:OFSS-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941908653 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941909162 :: history :: {'symbol': 'NSE:PAGEIND-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941909359 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941909875 :: history :: {'symbol': 'NSE:PERSISTENT-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941910059 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941910574 :: history :: {'symbol': 'NSE:PIIND-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941910764 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941911274 :: history :: {'symbol': 'NSE:L&TFH-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941911479 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941912007 :: history :: {'symbol': 'NSE:LALPATHLAB-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941912217 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941912734 :: history :: {'symbol': 'NSE:LAURUSLABS-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941912935 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941913462 :: history :: {'symbol': 'NSE:LTIM-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941913715 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941914258 :: history :: {'symbol': 'NSE:LTTS-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941914488 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941915014 :: history :: {'symbol': 'NSE:AUROPHARMA-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941915215 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941915728 :: history :: {'symbol': 'NSE:LUPIN-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941915951 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941916474 :: history :: {'symbol': 'NSE:M&M-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941916671 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941917185 :: history :: {'symbol': 'NSE:M&MFIN-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941917385 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941917918 :: history :: {'symbol': 'NSE:METROPOLIS-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941918159 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941918681 :: history :: {'symbol': 'NSE:BAJAJFINSV-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941918887 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941919418 :: history :: {'symbol': 'NSE:CIPLA-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941919623 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941920160 :: history :: {'symbol': 'NSE:MRF-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941920372 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941920906 :: history :: {'symbol': 'NSE:EXIDEIND-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941921115 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941921636 :: history :: {'symbol': 'NSE:MUTHOOTFIN-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941921897 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941922421 :: history :: {'symbol': 'NSE:TCS-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941922639 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941923183 :: history :: {'symbol': 'NSE:TECHM-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941923491 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941924014 :: history :: {'symbol': 'NSE:TRENT-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941924223 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941924762 :: history :: {'symbol': 'NSE:TVSMOTOR-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941924970 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941925508 :: history :: {'symbol': 'NSE:BIOCON-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941925758 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941926287 :: history :: {'symbol': 'NSE:WIPRO-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941926525 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941927059 :: history :: {'symbol': 'NSE:NTPC-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941927296 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941927824 :: history :: {'symbol': 'NSE:OBEROIRLTY-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941928037 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941928567 :: history :: {'symbol': 'NSE:ONGC-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941928782 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941929321 :: history :: {'symbol': 'NSE:CHAMBLFERT-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941929530 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941930063 :: history :: {'symbol': 'NSE:PETRONET-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941930269 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941930788 :: history :: {'symbol': 'NSE:PIDILITIND-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941930995 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941931540 :: history :: {'symbol': 'NSE:PNB-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941931748 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941932272 :: history :: {'symbol': 'NSE:GRANULES-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941932487 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941933015 :: history :: {'symbol': 'NSE:POWERGRID-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941933225 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941933763 :: history :: {'symbol': 'NSE:RBLBANK-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941933970 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941934485 :: history :: {'symbol': 'NSE:HDFCAMC-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941934695 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941935262 :: history :: {'symbol': 'NSE:RECLTD-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941935509 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941936077 :: history :: {'symbol': 'NSE:RELIANCE-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941936291 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941936826 :: history :: {'symbol': 'NSE:SAIL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941937058 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941937583 :: history :: {'symbol': 'NSE:SBIN-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941937791 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941938321 :: history :: {'symbol': 'NSE:SHREECEM-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941938531 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941939062 :: history :: {'symbol': 'NSE:SHRIRAMFIN-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941939277 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941939814 :: history :: {'symbol': 'NSE:SRF-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941940155 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941940672 :: history :: {'symbol': 'NSE:SUNPHARMA-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941940887 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941941420 :: history :: {'symbol': 'NSE:COALINDIA-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941941640 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941942164 :: history :: {'symbol': 'NSE:SYNGENE-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941942404 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941942925 :: history :: {'symbol': 'NSE:HINDUNILVR-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941943155 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941943674 :: history :: {'symbol': 'NSE:TATACHEM-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941943873 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941944408 :: history :: {'symbol': 'NSE:TATACOMM-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941944610 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941945126 :: history :: {'symbol': 'NSE:TATACONSUM-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941945333 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941945859 :: history :: {'symbol': 'NSE:ICICIBANK-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941946092 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941946613 :: history :: {'symbol': 'NSE:TATAMOTORS-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941946833 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941947368 :: history :: {'symbol': 'NSE:TATAPOWER-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941947605 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941948123 :: history :: {'symbol': 'NSE:INDUSINDBK-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941948331 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941948864 :: history :: {'symbol': 'NSE:TITAN-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941949061 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941949584 :: history :: {'symbol': 'NSE:TORNTPHARM-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941949778 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941950316 :: history :: {'symbol': 'NSE:UBL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941950517 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941951028 :: history :: {'symbol': 'NSE:ULTRACEMCO-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941951233 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941951773 :: history :: {'symbol': 'NSE:UPL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941951996 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941952521 :: history :: {'symbol': 'NSE:VOLTAS-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941952721 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941953235 :: history :: {'symbol': 'NSE:JUBLFOOD-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941953434 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941953963 :: history :: {'symbol': 'NSE:ZEEL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941954168 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941954684 :: history :: {'symbol': 'NSE:ZYDUSLIFE-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941954874 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941955408 :: history :: {'symbol': 'NSE:MANAPPURAM-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941955613 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941956124 :: history :: {'symbol': 'NSE:ACC-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941956322 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941956837 :: history :: {'symbol': 'NSE:VEDL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941957025 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941957554 :: history :: {'symbol': 'NSE:JINDALSTEL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941957762 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941958284 :: history :: {'symbol': 'NSE:JSWSTEEL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941958529 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941959059 :: history :: {'symbol': 'NSE:CONCOR-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941959262 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941959775 :: history :: {'symbol': 'NSE:NMDC-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941959987 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941960527 :: history :: {'symbol': 'NSE:POLYCAB-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941960721 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941961234 :: history :: {'symbol': 'NSE:SIEMENS-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941961464 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941961978 :: history :: {'symbol': 'NSE:CANBK-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941962183 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941962713 :: history :: {'symbol': 'NSE:MCX-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941962916 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941963428 :: history :: {'symbol': 'NSE:MGL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941963623 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941964143 :: history :: {'symbol': 'NSE:MOTHERSON-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941964351 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941964864 :: history :: {'symbol': 'NSE:ITC-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941965055 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941965566 :: history :: {'symbol': 'NSE:PVRINOX-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941965762 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941966272 :: history :: {'symbol': 'NSE:SUNTV-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941966478 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941967012 :: history :: {'symbol': 'NSE:PEL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941967216 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941967724 :: history :: {'symbol': 'NSE:PFC-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941967923 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941968434 :: history :: {'symbol': 'NSE:TATASTEEL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941968625 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941969137 :: history :: {'symbol': 'NSE:GODREJPROP-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941969334 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941969867 :: history :: {'symbol': 'NSE:MPHASIS-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941970075 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701941970609 :: history :: {'symbol': 'NSE:LT-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-17', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701941970849 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942129812 :: history :: {'symbol': 'NSE:RELIANCE-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942130073 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942130584 :: history :: {'symbol': 'NSE:TCS-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942130770 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942131280 :: history :: {'symbol': 'NSE:HDFCBANK-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942131461 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942131968 :: history :: {'symbol': 'NSE:ICICIBANK-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942132188 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942132716 :: history :: {'symbol': 'NSE:HINDUNILVR-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942132929 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942133440 :: history :: {'symbol': 'NSE:INFY-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942133618 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942134127 :: history :: {'symbol': 'NSE:HDFC-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942134316 :: {'s': 'error', 'code': -300, 'message': 'Please provide a valid symbol'}
+
+1701942134823 :: history :: {'symbol': 'NSE:ITC-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942135038 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942135567 :: history :: {'symbol': 'NSE:SBIN-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942135759 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942136268 :: history :: {'symbol': 'NSE:BHARTIARTL-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942136488 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942137016 :: history :: {'symbol': 'NSE:KOTAKBANK-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942137228 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942137738 :: history :: {'symbol': 'NSE:BAJFINANCE-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942137971 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942138481 :: history :: {'symbol': 'NSE:LICI-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942138718 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942139228 :: history :: {'symbol': 'NSE:LT-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942139405 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942139914 :: history :: {'symbol': 'NSE:HCLTECH-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942140139 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942140667 :: history :: {'symbol': 'NSE:ASIANPAINT-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942140885 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942195063 :: history :: {'symbol': 'NSE:RELIANCE-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942195263 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942195770 :: history :: {'symbol': 'NSE:TCS-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942195964 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942196474 :: history :: {'symbol': 'NSE:HDFCBANK-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942196660 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942197172 :: history :: {'symbol': 'NSE:ICICIBANK-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942197358 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942197870 :: history :: {'symbol': 'NSE:HINDUNILVR-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942198060 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942198571 :: history :: {'symbol': 'NSE:INFY-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942198784 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942199297 :: history :: {'symbol': 'NSE:HDFC-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942199487 :: {'s': 'error', 'code': -300, 'message': 'Please provide a valid symbol'}
+
+1701942200015 :: history :: {'symbol': 'NSE:ITC-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942200212 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942200722 :: history :: {'symbol': 'NSE:SBIN-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942200912 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942201423 :: history :: {'symbol': 'NSE:BHARTIARTL-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942201611 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942202122 :: history :: {'symbol': 'NSE:KOTAKBANK-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942202305 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942202818 :: history :: {'symbol': 'NSE:BAJFINANCE-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942203078 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942203588 :: history :: {'symbol': 'NSE:LICI-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942203769 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942204282 :: history :: {'symbol': 'NSE:LT-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942204490 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942205018 :: history :: {'symbol': 'NSE:HCLTECH-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942205219 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942205730 :: history :: {'symbol': 'NSE:ASIANPAINT-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942205986 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942206513 :: history :: {'symbol': 'NSE:AXISBANK-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942206745 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942207269 :: history :: {'symbol': 'NSE:MARUTI-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942207472 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942207985 :: history :: {'symbol': 'NSE:SUNPHARMA-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942208174 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942208682 :: history :: {'symbol': 'NSE:TITAN-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942208914 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942209468 :: history :: {'symbol': 'NSE:DMART-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942209663 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942210172 :: history :: {'symbol': 'NSE:ULTRACEMCO-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942210361 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942210871 :: history :: {'symbol': 'NSE:BAJAJFINSV-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942211067 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942211580 :: history :: {'symbol': 'NSE:WIPRO-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942211807 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942212320 :: history :: {'symbol': 'NSE:ADANIENT-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942212529 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942213042 :: history :: {'symbol': 'NSE:ONGC-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942213218 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942213731 :: history :: {'symbol': 'NSE:NTPC-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942213913 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942214424 :: history :: {'symbol': 'NSE:JSWSTEEL-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942214606 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942215121 :: history :: {'symbol': 'NSE:POWERGRID-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942215314 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942216012 :: history :: {'symbol': 'NSE:M&M-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942216213 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942216722 :: history :: {'symbol': 'NSE:LTIM-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942216932 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942217444 :: history :: {'symbol': 'NSE:TATAMOTORS-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942217627 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942218138 :: history :: {'symbol': 'NSE:ADANIGREEN-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942218323 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942218830 :: history :: {'symbol': 'NSE:ADANIPORTS-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942219008 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942219520 :: history :: {'symbol': 'NSE:COALINDIA-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942219709 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942220219 :: history :: {'symbol': 'NSE:TATASTEEL-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942220413 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942220925 :: history :: {'symbol': 'NSE:HINDZINC-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942221154 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942221670 :: history :: {'symbol': 'NSE:PIDILITIND-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942221892 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942222418 :: history :: {'symbol': 'NSE:SIEMENS-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942222609 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942223121 :: history :: {'symbol': 'NSE:ADANITRANS-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942223284 :: {'s': 'error', 'code': -300, 'message': 'Please provide a valid symbol'}
+
+1701942223795 :: history :: {'symbol': 'NSE:SBILIFE-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942223975 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942224486 :: history :: {'symbol': 'NSE:IOC-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942224672 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942225183 :: history :: {'symbol': 'NSE:BAJAJ-AUTO-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942225400 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942225920 :: history :: {'symbol': 'NSE:GRASIM-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942226146 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942226668 :: history :: {'symbol': 'NSE:TECHM-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942226858 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942227371 :: history :: {'symbol': 'NSE:HDFCLIFE-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942227558 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942228065 :: history :: {'symbol': 'NSE:BRITANNIA-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942228264 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942228777 :: history :: {'symbol': 'NSE:VEDL-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942228995 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942229518 :: history :: {'symbol': 'NSE:GODREJCP-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942229857 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942230371 :: history :: {'symbol': 'NSE:DABUR-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942230563 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942231076 :: history :: {'symbol': 'NSE:ATGL-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942231264 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942231775 :: history :: {'symbol': 'NSE:SHREECEM-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942231984 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942232522 :: history :: {'symbol': 'NSE:HAL-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942232743 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942233269 :: history :: {'symbol': 'NSE:HINDALCO-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942233491 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942234020 :: history :: {'symbol': 'NSE:VBL-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942234212 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942234722 :: history :: {'symbol': 'NSE:DLF-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942234940 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942235468 :: history :: {'symbol': 'NSE:BANKBARODA-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942235656 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942236170 :: history :: {'symbol': 'NSE:INDUSINDBK-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942236357 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701942236870 :: history :: {'symbol': 'NSE:EICHERMOT-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701942237058 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946793734 :: history :: {'symbol': 'NSE:RELIANCE-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946794138 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946794654 :: history :: {'symbol': 'NSE:TCS-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946794903 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946795413 :: history :: {'symbol': 'NSE:HDFCBANK-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946795589 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946796101 :: history :: {'symbol': 'NSE:ICICIBANK-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946796312 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946796823 :: history :: {'symbol': 'NSE:HINDUNILVR-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946797013 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946797524 :: history :: {'symbol': 'NSE:INFY-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946797740 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946798321 :: history :: {'symbol': 'NSE:HDFC-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946798486 :: {'s': 'error', 'code': -300, 'message': 'Please provide a valid symbol'}
+
+1701946799043 :: history :: {'symbol': 'NSE:ITC-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946799223 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946799747 :: history :: {'symbol': 'NSE:SBIN-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946799927 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946800436 :: history :: {'symbol': 'NSE:BHARTIARTL-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946800623 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946801133 :: history :: {'symbol': 'NSE:KOTAKBANK-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946801354 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946801862 :: history :: {'symbol': 'NSE:BAJFINANCE-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946802146 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946802652 :: history :: {'symbol': 'NSE:LICI-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946802866 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946803374 :: history :: {'symbol': 'NSE:LT-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946803555 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946804083 :: history :: {'symbol': 'NSE:HCLTECH-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946804304 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946804817 :: history :: {'symbol': 'NSE:ASIANPAINT-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946805013 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946805524 :: history :: {'symbol': 'NSE:AXISBANK-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-03-15', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946805745 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946821097 :: history :: {'symbol': 'NSE:RELIANCE-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-06-14', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946821340 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946821851 :: history :: {'symbol': 'NSE:TCS-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-06-14', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946822088 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946822595 :: history :: {'symbol': 'NSE:HDFCBANK-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-06-14', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946822961 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946823470 :: history :: {'symbol': 'NSE:ICICIBANK-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-06-14', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946823680 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946824186 :: history :: {'symbol': 'NSE:HINDUNILVR-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-06-14', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946824370 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946824885 :: history :: {'symbol': 'NSE:INFY-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-06-14', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946825190 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946825701 :: history :: {'symbol': 'NSE:HDFC-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-06-14', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946825892 :: {'s': 'error', 'code': -300, 'message': 'Please provide a valid symbol'}
+
+1701946826402 :: history :: {'symbol': 'NSE:ITC-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-06-14', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946826586 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946827099 :: history :: {'symbol': 'NSE:SBIN-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-06-14', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946827316 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946827841 :: history :: {'symbol': 'NSE:BHARTIARTL-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-06-14', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946828027 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946828610 :: history :: {'symbol': 'NSE:KOTAKBANK-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-06-14', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946828960 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946829619 :: history :: {'symbol': 'NSE:BAJFINANCE-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-06-14', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946829876 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946834675 :: history :: {'symbol': 'NSE:RELIANCE-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-09-25', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946834885 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946835399 :: history :: {'symbol': 'NSE:TCS-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-09-25', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946835617 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946836126 :: history :: {'symbol': 'NSE:HDFCBANK-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-09-25', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946836372 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946836887 :: history :: {'symbol': 'NSE:ICICIBANK-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-09-25', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946837145 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946837656 :: history :: {'symbol': 'NSE:HINDUNILVR-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-09-25', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946837881 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946838392 :: history :: {'symbol': 'NSE:INFY-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-09-25', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946838612 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946839122 :: history :: {'symbol': 'NSE:HDFC-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-09-25', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946839333 :: {'s': 'error', 'code': -300, 'message': 'Please provide a valid symbol'}
+
+1701946839847 :: history :: {'symbol': 'NSE:ITC-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-09-25', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946840070 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946840578 :: history :: {'symbol': 'NSE:SBIN-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-09-25', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946840853 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946841363 :: history :: {'symbol': 'NSE:BHARTIARTL-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-09-25', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946841561 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946842071 :: history :: {'symbol': 'NSE:KOTAKBANK-EQ', 'resolution': 'D', 'date_format': '1', 'range_from': '2023-09-25', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946842346 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946928568 :: history :: {'symbol': 'NSE:NIFTYBANK-INDEX', 'resolution': '15', 'date_format': '1', 'range_from': '2023-12-02', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946929950 :: {'s': 'ok', 'candles': [[1701661500, 45671.5, 45761.55, 45484.2, 45674.3, 0], [1701662400, 45680.9, 45817.95, 45667.3, 45771.1, 0], [1701663300, 45769.2, 45796.65, 45716.5, 45787.6, 0], [1701664200, 45787.6, 45829.65, 45700.65, 45740.1, 0], [1701665100, 45739.8, 45770.5, 45731.45, 45755.0, 0], [1701666000, 45758.4, 45758.95, 45714.3, 45718.9, 0], [1701666900, 45720.9, 45728.85, 45706.5, 45714.8, 0], [1701667800, 45712.2, 45722.5, 45657.35, 45708.8, 0], [1701668700, 45711.4, 45744.15, 45709.4, 45727.0, 0], [1701669600, 45725.5, 45743.05, 45718.6, 45740.9, 0], [1701670500, 45739.5, 45758.45, 45737.6, 45751.0, 0], [1701671400, 45753.5, 45829.8, 45734.65, 45815.6, 0], [1701672300, 45820.9, 45893.05, 45818.85, 45893.1, 0], [1701673200, 45893.6, 45968.2, 45869.45, 45965.8, 0], [1701674100, 45967.2, 46002.75, 45927.95, 46000.2, 0], [1701675000, 46000.9, 46036.0, 45972.35, 46005.2, 0], [1701675900, 46006.9, 46060.5, 46003.1, 46021.2, 0], [1701676800, 46020.9, 46073.95, 46015.2, 46040.5, 0], [1701677700, 46042.4, 46051.7, 45948.75, 46043.4, 0], [1701678600, 46044.6, 46167.85, 46043.95, 46154.4, 0], [1701679500, 46158.4, 46191.8, 46118.6, 46190.3, 0], [1701680400, 46190.8, 46269.4, 46189.15, 46266.2, 0], [1701681300, 46265.1, 46354.7, 46229.25, 46350.3, 0], [1701682200, 46347.3, 46475.4, 46284.65, 46412.1, 0], [1701683100, 46414.0, 46483.3, 46406.8, 46445.4, 0], [1701747900, 46895.9, 46933.15, 46657.25, 46798.9, 0], [1701748800, 46805.2, 46838.8, 46768.9, 46806.8, 0], [1701749700, 46807.5, 46968.3, 46802.65, 46936.4, 0], [1701750600, 46933.7, 47056.7, 46921.85, 47049.9, 0], [1701751500, 47051.4, 47214.9, 47034.9, 47157.9, 0], [1701752400, 47160.1, 47226.4, 47003.7, 47160.6, 0], [1701753300, 47164.3, 47178.7, 47101.7, 47166.8, 0], [1701754200, 47166.6, 47178.65, 46954.1, 47018.2, 0], [1701755100, 47013.4, 47029.1, 46808.95, 46923.8, 0], [1701756000, 46922.6, 46923.45, 46736.1, 46763.6, 0], [1701756900, 46761.9, 46897.85, 46752.05, 46896.9, 0], [1701757800, 46889.8, 46943.5, 46824.65, 46876.3, 0], [1701758700, 46875.5, 46919.35, 46857.9, 46891.8, 0], [1701759600, 46889.1, 46912.1, 46869.25, 46889.7, 0], [1701760500, 46889.1, 46990.8, 46879.45, 46975.1, 0], [1701761400, 46977.6, 47008.4, 46945.0, 47003.6, 0], [1701762300, 47005.8, 47017.45, 46957.35, 46981.8, 0], [1701763200, 46979.1, 47075.35, 46979.05, 47066.9, 0], [1701764100, 47071.8, 47072.2, 47002.5, 47014.2, 0], [1701765000, 47012.0, 47025.0, 46918.8, 46984.6, 0], [1701765900, 46985.8, 47003.0, 46940.6, 46981.0, 0], [1701766800, 46979.6, 47027.35, 46979.55, 46980.1, 0], [1701767700, 46979.4, 47025.55, 46958.45, 47011.8, 0], [1701768600, 47012.1, 47067.0, 46981.35, 47016.0, 0], [1701769500, 47014.6, 47030.9, 46952.55, 46968.9, 0], [1701834300, 47256.8, 47258.85, 47015.45, 47037.8, 0], [1701835200, 47029.7, 47029.7, 46815.45, 46893.1, 0], [1701836100, 46902.1, 46965.9, 46836.35, 46885.4, 0], [1701837000, 46883.6, 46906.55, 46776.65, 46805.2, 0], [1701837900, 46813.2, 46869.5, 46751.0, 46769.9, 0], [1701838800, 46777.6, 46843.45, 46763.5, 46811.9, 0], [1701839700, 46811.1, 46938.85, 46811.15, 46932.7, 0], [1701840600, 46940.5, 46969.2, 46857.0, 46883.6, 0], [1701841500, 46884.2, 46920.15, 46836.9, 46891.4, 0], [1701842400, 46891.8, 46932.55, 46886.35, 46911.3, 0], [1701843300, 46911.7, 46925.15, 46874.5, 46924.1, 0], [1701844200, 46924.2, 46950.6, 46897.4, 46935.2, 0], [1701845100, 46936.0, 46944.7, 46850.4, 46864.6, 0], [1701846000, 46859.5, 46885.9, 46818.5, 46856.7, 0], [1701846900, 46861.6, 46872.75, 46826.2, 46859.2, 0], [1701847800, 46862.7, 46865.3, 46804.4, 46817.1, 0], [1701848700, 46820.3, 46839.65, 46767.45, 46798.1, 0], [1701849600, 46795.8, 46865.1, 46791.85, 46842.9, 0], [1701850500, 46845.5, 46893.45, 46835.4, 46878.6, 0], [1701851400, 46880.1, 46914.5, 46853.0, 46858.8, 0], [1701852300, 46861.1, 46884.3, 46810.95, 46857.4, 0], [1701853200, 46862.2, 46935.0, 46846.3, 46927.0, 0], [1701854100, 46929.8, 46946.5, 46868.55, 46872.6, 0], [1701855000, 46870.1, 46882.45, 46790.7, 46835.5, 0], [1701855900, 46836.1, 46849.7, 46787.25, 46801.9, 0], [1701919800, 46834.55, 46834.55, 46735.4, 46735.4, 0], [1701920700, 46735.4, 46774.2, 46507.15, 46510.95, 0], [1701921600, 46511.45, 46658.95, 46511.45, 46585.6, 0], [1701922500, 46582.85, 46646.6, 46571.8, 46603.25, 0], [1701923400, 46603.8, 46608.7, 46569.75, 46581.15, 0], [1701924300, 46580.0, 46654.15, 46552.0, 46633.25, 0], [1701925200, 46637.1, 46768.0, 46595.0, 46745.35, 0], [1701926100, 46745.4, 46789.1, 46682.45, 46732.5, 0], [1701927000, 46731.85, 46902.8, 46722.15, 46874.8, 0], [1701927900, 46879.55, 46901.4, 46771.45, 46771.45, 0], [1701928800, 46767.6, 46820.1, 46764.0, 46806.65, 0], [1701929700, 46804.35, 46852.4, 46785.9, 46847.0, 0], [1701930600, 46848.75, 46857.35, 46813.25, 46843.75, 0], [1701931500, 46844.35, 46846.35, 46803.5, 46813.75, 0], [1701932400, 46814.45, 46850.9, 46777.9, 46833.05, 0], [1701933300, 46835.7, 46875.35, 46816.3, 46853.4, 0], [1701934200, 46850.15, 46865.9, 46816.2, 46845.4, 0], [1701935100, 46844.7, 46866.4, 46821.65, 46863.05, 0], [1701936000, 46858.85, 46925.5, 46856.6, 46883.3, 0], [1701936900, 46881.95, 46889.9, 46855.8, 46878.8, 0], [1701937800, 46880.0, 46901.8, 46813.4, 46848.05, 0], [1701938700, 46849.5, 46882.7, 46838.15, 46881.0, 0], [1701939600, 46881.75, 46916.0, 46854.05, 46856.15, 0], [1701940500, 46854.25, 46874.7, 46837.15, 46863.25, 0], [1701941400, 46862.4, 46866.9, 46795.5, 46829.2, 0], [1701942300, 46829.35, 46889.95, 46812.65, 46839.4, 0], [1701943200, 46835.3, 46835.3, 46835.3, 46839.4, 0]]}
+
+1701946958103 :: history :: {'symbol': 'NSE:HAL-EQ', 'resolution': '15', 'date_format': '1', 'range_from': '2023-12-02', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946958345 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701946987269 :: history :: {'symbol': 'NSE:NIFTYBANK-INDEX', 'resolution': '15', 'date_format': '1', 'range_from': '2023-12-02', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701946987596 :: {'s': 'ok', 'candles': [[1701661500, 45671.5, 45761.55, 45484.2, 45674.3, 0], [1701662400, 45680.9, 45817.95, 45667.3, 45771.1, 0], [1701663300, 45769.2, 45796.65, 45716.5, 45787.6, 0], [1701664200, 45787.6, 45829.65, 45700.65, 45740.1, 0], [1701665100, 45739.8, 45770.5, 45731.45, 45755.0, 0], [1701666000, 45758.4, 45758.95, 45714.3, 45718.9, 0], [1701666900, 45720.9, 45728.85, 45706.5, 45714.8, 0], [1701667800, 45712.2, 45722.5, 45657.35, 45708.8, 0], [1701668700, 45711.4, 45744.15, 45709.4, 45727.0, 0], [1701669600, 45725.5, 45743.05, 45718.6, 45740.9, 0], [1701670500, 45739.5, 45758.45, 45737.6, 45751.0, 0], [1701671400, 45753.5, 45829.8, 45734.65, 45815.6, 0], [1701672300, 45820.9, 45893.05, 45818.85, 45893.1, 0], [1701673200, 45893.6, 45968.2, 45869.45, 45965.8, 0], [1701674100, 45967.2, 46002.75, 45927.95, 46000.2, 0], [1701675000, 46000.9, 46036.0, 45972.35, 46005.2, 0], [1701675900, 46006.9, 46060.5, 46003.1, 46021.2, 0], [1701676800, 46020.9, 46073.95, 46015.2, 46040.5, 0], [1701677700, 46042.4, 46051.7, 45948.75, 46043.4, 0], [1701678600, 46044.6, 46167.85, 46043.95, 46154.4, 0], [1701679500, 46158.4, 46191.8, 46118.6, 46190.3, 0], [1701680400, 46190.8, 46269.4, 46189.15, 46266.2, 0], [1701681300, 46265.1, 46354.7, 46229.25, 46350.3, 0], [1701682200, 46347.3, 46475.4, 46284.65, 46412.1, 0], [1701683100, 46414.0, 46483.3, 46406.8, 46445.4, 0], [1701747900, 46895.9, 46933.15, 46657.25, 46798.9, 0], [1701748800, 46805.2, 46838.8, 46768.9, 46806.8, 0], [1701749700, 46807.5, 46968.3, 46802.65, 46936.4, 0], [1701750600, 46933.7, 47056.7, 46921.85, 47049.9, 0], [1701751500, 47051.4, 47214.9, 47034.9, 47157.9, 0], [1701752400, 47160.1, 47226.4, 47003.7, 47160.6, 0], [1701753300, 47164.3, 47178.7, 47101.7, 47166.8, 0], [1701754200, 47166.6, 47178.65, 46954.1, 47018.2, 0], [1701755100, 47013.4, 47029.1, 46808.95, 46923.8, 0], [1701756000, 46922.6, 46923.45, 46736.1, 46763.6, 0], [1701756900, 46761.9, 46897.85, 46752.05, 46896.9, 0], [1701757800, 46889.8, 46943.5, 46824.65, 46876.3, 0], [1701758700, 46875.5, 46919.35, 46857.9, 46891.8, 0], [1701759600, 46889.1, 46912.1, 46869.25, 46889.7, 0], [1701760500, 46889.1, 46990.8, 46879.45, 46975.1, 0], [1701761400, 46977.6, 47008.4, 46945.0, 47003.6, 0], [1701762300, 47005.8, 47017.45, 46957.35, 46981.8, 0], [1701763200, 46979.1, 47075.35, 46979.05, 47066.9, 0], [1701764100, 47071.8, 47072.2, 47002.5, 47014.2, 0], [1701765000, 47012.0, 47025.0, 46918.8, 46984.6, 0], [1701765900, 46985.8, 47003.0, 46940.6, 46981.0, 0], [1701766800, 46979.6, 47027.35, 46979.55, 46980.1, 0], [1701767700, 46979.4, 47025.55, 46958.45, 47011.8, 0], [1701768600, 47012.1, 47067.0, 46981.35, 47016.0, 0], [1701769500, 47014.6, 47030.9, 46952.55, 46968.9, 0], [1701834300, 47256.8, 47258.85, 47015.45, 47037.8, 0], [1701835200, 47029.7, 47029.7, 46815.45, 46893.1, 0], [1701836100, 46902.1, 46965.9, 46836.35, 46885.4, 0], [1701837000, 46883.6, 46906.55, 46776.65, 46805.2, 0], [1701837900, 46813.2, 46869.5, 46751.0, 46769.9, 0], [1701838800, 46777.6, 46843.45, 46763.5, 46811.9, 0], [1701839700, 46811.1, 46938.85, 46811.15, 46932.7, 0], [1701840600, 46940.5, 46969.2, 46857.0, 46883.6, 0], [1701841500, 46884.2, 46920.15, 46836.9, 46891.4, 0], [1701842400, 46891.8, 46932.55, 46886.35, 46911.3, 0], [1701843300, 46911.7, 46925.15, 46874.5, 46924.1, 0], [1701844200, 46924.2, 46950.6, 46897.4, 46935.2, 0], [1701845100, 46936.0, 46944.7, 46850.4, 46864.6, 0], [1701846000, 46859.5, 46885.9, 46818.5, 46856.7, 0], [1701846900, 46861.6, 46872.75, 46826.2, 46859.2, 0], [1701847800, 46862.7, 46865.3, 46804.4, 46817.1, 0], [1701848700, 46820.3, 46839.65, 46767.45, 46798.1, 0], [1701849600, 46795.8, 46865.1, 46791.85, 46842.9, 0], [1701850500, 46845.5, 46893.45, 46835.4, 46878.6, 0], [1701851400, 46880.1, 46914.5, 46853.0, 46858.8, 0], [1701852300, 46861.1, 46884.3, 46810.95, 46857.4, 0], [1701853200, 46862.2, 46935.0, 46846.3, 46927.0, 0], [1701854100, 46929.8, 46946.5, 46868.55, 46872.6, 0], [1701855000, 46870.1, 46882.45, 46790.7, 46835.5, 0], [1701855900, 46836.1, 46849.7, 46787.25, 46801.9, 0], [1701919800, 46834.55, 46834.55, 46735.4, 46735.4, 0], [1701920700, 46735.4, 46774.2, 46507.15, 46510.95, 0], [1701921600, 46511.45, 46658.95, 46511.45, 46585.6, 0], [1701922500, 46582.85, 46646.6, 46571.8, 46603.25, 0], [1701923400, 46603.8, 46608.7, 46569.75, 46581.15, 0], [1701924300, 46580.0, 46654.15, 46552.0, 46633.25, 0], [1701925200, 46637.1, 46768.0, 46595.0, 46745.35, 0], [1701926100, 46745.4, 46789.1, 46682.45, 46732.5, 0], [1701927000, 46731.85, 46902.8, 46722.15, 46874.8, 0], [1701927900, 46879.55, 46901.4, 46771.45, 46771.45, 0], [1701928800, 46767.6, 46820.1, 46764.0, 46806.65, 0], [1701929700, 46804.35, 46852.4, 46785.9, 46847.0, 0], [1701930600, 46848.75, 46857.35, 46813.25, 46843.75, 0], [1701931500, 46844.35, 46846.35, 46803.5, 46813.75, 0], [1701932400, 46814.45, 46850.9, 46777.9, 46833.05, 0], [1701933300, 46835.7, 46875.35, 46816.3, 46853.4, 0], [1701934200, 46850.15, 46865.9, 46816.2, 46845.4, 0], [1701935100, 46844.7, 46866.4, 46821.65, 46863.05, 0], [1701936000, 46858.85, 46925.5, 46856.6, 46883.3, 0], [1701936900, 46881.95, 46889.9, 46855.8, 46878.8, 0], [1701937800, 46880.0, 46901.8, 46813.4, 46848.05, 0], [1701938700, 46849.5, 46882.7, 46838.15, 46881.0, 0], [1701939600, 46881.75, 46916.0, 46854.05, 46856.15, 0], [1701940500, 46854.25, 46874.7, 46837.15, 46863.25, 0], [1701941400, 46862.4, 46866.9, 46795.5, 46829.2, 0], [1701942300, 46829.35, 46889.95, 46812.65, 46839.4, 0], [1701943200, 46835.3, 46835.3, 46835.3, 46839.4, 0]]}
+
+1701947001916 :: history :: {'symbol': 'NSE:NIFTY-INDEX', 'resolution': '15', 'date_format': '1', 'range_from': '2023-12-02', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701947002128 :: {'s': 'error', 'code': -300, 'message': 'Please provide a valid symbol'}
+
+1701947041616 :: history :: {'symbol': 'NSE:NIFTY-INDEX', 'resolution': '15', 'date_format': '1', 'range_from': '2023-12-02', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701947041921 :: {'s': 'error', 'code': -300, 'message': 'Please provide a valid symbol'}
+
+1701947062759 :: history :: {'symbol': 'NSE:NIFTY-INDEX', 'resolution': '15', 'date_format': '1', 'range_from': '2023-12-02', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701947062990 :: {'s': 'error', 'code': -300, 'message': 'Please provide a valid symbol'}
+
+1701947091019 :: history :: {'symbol': 'NSE:NIFTY50-INDEX', 'resolution': '15', 'date_format': '1', 'range_from': '2023-12-02', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701947091420 :: {'s': 'ok', 'candles': [[1701661500, 20601.9, 20602.5, 20508.65, 20564.3, 0], [1701662400, 20565.1, 20590.2, 20561.05, 20569.9, 0], [1701663300, 20569.0, 20574.3, 20549.5, 20558.3, 0], [1701664200, 20557.9, 20564.7, 20535.3, 20545.7, 0], [1701665100, 20545.7, 20553.7, 20531.85, 20547.6, 0], [1701666000, 20548.4, 20548.45, 20523.3, 20545.6, 0], [1701666900, 20545.8, 20559.9, 20543.6, 20555.1, 0], [1701667800, 20554.3, 20574.15, 20546.95, 20573.2, 0], [1701668700, 20574.2, 20583.4, 20559.15, 20563.7, 0], [1701669600, 20564.6, 20574.8, 20558.15, 20574.2, 0], [1701670500, 20574.9, 20580.35, 20571.35, 20573.6, 0], [1701671400, 20574.4, 20587.9, 20569.05, 20582.7, 0], [1701672300, 20583.4, 20586.7, 20571.65, 20578.0, 0], [1701673200, 20577.9, 20581.85, 20574.3, 20581.4, 0], [1701674100, 20581.7, 20587.15, 20571.55, 20586.3, 0], [1701675000, 20586.4, 20591.35, 20570.7, 20587.3, 0], [1701675900, 20587.8, 20613.25, 20586.6, 20608.7, 0], [1701676800, 20608.2, 20623.7, 20605.3, 20615.4, 0], [1701677700, 20615.8, 20617.85, 20593.65, 20611.6, 0], [1701678600, 20612.2, 20641.6, 20612.2, 20640.9, 0], [1701679500, 20641.2, 20648.8, 20630.55, 20647.8, 0], [1701680400, 20647.9, 20670.25, 20647.25, 20669.2, 0], [1701681300, 20669.9, 20682.7, 20656.3, 20681.4, 0], [1701682200, 20681.6, 20702.25, 20658.7, 20678.3, 0], [1701683100, 20678.4, 20694.35, 20675.8, 20686.8, 0], [1701747900, 20808.9, 20813.1, 20711.15, 20749.8, 0], [1701748800, 20750.8, 20777.05, 20748.35, 20776.7, 0], [1701749700, 20776.4, 20797.8, 20767.35, 20775.5, 0], [1701750600, 20774.9, 20810.1, 20771.4, 20806.9, 0], [1701751500, 20807.7, 20833.85, 20805.6, 20827.0, 0], [1701752400, 20826.9, 20848.05, 20805.75, 20839.8, 0], [1701753300, 20840.2, 20848.1, 20832.1, 20842.8, 0], [1701754200, 20843.3, 20849.3, 20803.4, 20822.3, 0], [1701755100, 20821.7, 20825.0, 20780.1, 20798.9, 0], [1701756000, 20798.6, 20800.35, 20740.55, 20740.6, 0], [1701756900, 20740.4, 20766.2, 20731.0, 20762.9, 0], [1701757800, 20761.6, 20779.85, 20753.6, 20776.7, 0], [1701758700, 20776.6, 20786.35, 20768.45, 20779.8, 0], [1701759600, 20779.4, 20793.05, 20775.65, 20779.1, 0], [1701760500, 20779.3, 20809.9, 20774.75, 20807.1, 0], [1701761400, 20807.2, 20810.75, 20795.55, 20802.0, 0], [1701762300, 20801.9, 20807.35, 20788.65, 20803.9, 0], [1701763200, 20803.7, 20827.4, 20803.35, 20819.0, 0], [1701764100, 20819.4, 20823.25, 20802.5, 20805.7, 0], [1701765000, 20805.0, 20816.55, 20789.2, 20812.9, 0], [1701765900, 20812.5, 20815.1, 20794.1, 20809.3, 0], [1701766800, 20808.9, 20832.05, 20808.6, 20818.3, 0], [1701767700, 20818.7, 20839.75, 20818.7, 20836.8, 0], [1701768600, 20836.1, 20860.45, 20834.15, 20857.8, 0], [1701769500, 20857.9, 20863.7, 20851.5, 20856.7, 0], [1701834300, 20950.8, 20956.0, 20910.6, 20933.8, 0], [1701835200, 20931.2, 20938.85, 20887.9, 20930.1, 0], [1701836100, 20930.7, 20957.9, 20925.65, 20928.7, 0], [1701837000, 20929.1, 20939.15, 20894.7, 20898.8, 0], [1701837900, 20899.6, 20923.95, 20891.05, 20899.0, 0], [1701838800, 20900.4, 20910.45, 20893.25, 20903.9, 0], [1701839700, 20903.7, 20941.15, 20903.7, 20939.4, 0], [1701840600, 20941.5, 20942.7, 20920.35, 20926.9, 0], [1701841500, 20927.4, 20933.15, 20915.25, 20927.1, 0], [1701842400, 20927.7, 20939.7, 20925.9, 20938.9, 0], [1701843300, 20940.1, 20940.85, 20917.3, 20929.2, 0], [1701844200, 20929.6, 20936.1, 20923.6, 20930.5, 0], [1701845100, 20931.4, 20933.8, 20913.1, 20915.3, 0], [1701846000, 20914.8, 20922.5, 20891.55, 20896.2, 0], [1701846900, 20897.6, 20907.15, 20886.0, 20904.3, 0], [1701847800, 20904.9, 20905.5, 20870.2, 20873.4, 0], [1701848700, 20873.8, 20887.4, 20852.8, 20871.1, 0], [1701849600, 20870.8, 20908.3, 20869.55, 20900.7, 0], [1701850500, 20901.3, 20920.0, 20897.65, 20917.8, 0], [1701851400, 20918.4, 20933.45, 20914.35, 20927.0, 0], [1701852300, 20927.2, 20946.7, 20922.6, 20937.4, 0], [1701853200, 20938.2, 20955.15, 20934.35, 20951.9, 0], [1701854100, 20952.7, 20961.45, 20942.25, 20953.8, 0], [1701855000, 20953.1, 20958.25, 20932.2, 20939.3, 0], [1701855900, 20939.9, 20946.5, 20923.6, 20935.9, 0], [1701919800, 20702.3, 20962.2, 20647.4, 20932.4, 0], [1701920700, 20932.4, 20941.25, 20851.7, 20851.7, 0], [1701921600, 20851.45, 20901.4, 20851.45, 20879.0, 0], [1701922500, 20879.6, 20887.1, 20865.35, 20875.55, 0], [1701923400, 20876.3, 20877.75, 20864.2, 20870.2, 0], [1701924300, 20870.05, 20885.95, 20859.85, 20875.85, 0], [1701925200, 20877.15, 20908.45, 20873.45, 20901.05, 0], [1701926100, 20901.25, 20922.4, 20892.85, 20909.05, 0], [1701927000, 20908.55, 20935.85, 20906.35, 20927.0, 0], [1701927900, 20927.65, 20932.4, 20905.75, 20905.75, 0], [1701928800, 20905.55, 20912.8, 20899.2, 20904.35, 0], [1701929700, 20904.1, 20922.95, 20901.0, 20919.85, 0], [1701930600, 20919.8, 20925.15, 20913.6, 20917.35, 0], [1701931500, 20917.15, 20921.45, 20908.55, 20913.8, 0], [1701932400, 20913.75, 20920.0, 20901.35, 20918.5, 0], [1701933300, 20920.2, 20922.3, 20908.25, 20916.0, 0], [1701934200, 20915.2, 20924.25, 20904.45, 20917.15, 0], [1701935100, 20917.05, 20922.85, 20911.5, 20916.5, 0], [1701936000, 20916.15, 20927.0, 20907.4, 20915.15, 0], [1701936900, 20914.9, 20920.3, 20909.35, 20914.0, 0], [1701937800, 20913.8, 20921.3, 20902.85, 20908.15, 0], [1701938700, 20908.0, 20918.65, 20903.35, 20914.95, 0], [1701939600, 20915.1, 20923.7, 20901.55, 20901.55, 0], [1701940500, 20901.65, 20906.05, 20887.9, 20890.2, 0], [1701941400, 20891.65, 20915.6, 20879.1, 20902.75, 0], [1701942300, 20902.65, 20919.6, 20899.8, 20916.1, 0], [1701943200, 20912.55, 20912.55, 20912.55, 20916.1, 0]]}
+
+1701947177020 :: history :: {'symbol': 'NSE:BHEL-EQ', 'resolution': '15', 'date_format': '1', 'range_from': '2023-12-02', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701947177559 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701947200209 :: history :: {'symbol': 'NSE:BHEL', 'resolution': '15', 'date_format': '1', 'range_from': '2023-12-02', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701947200427 :: {'s': 'error', 'code': -300, 'message': 'Please provide a valid symbol'}
+
+1701947655004 :: history :: {'symbol': 'NSE:BHEL', 'resolution': '15', 'date_format': '1', 'range_from': '2023-12-02', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701947655376 :: {'s': 'error', 'code': -300, 'message': 'Please provide a valid symbol'}
+
+1701947666426 :: history :: {'symbol': 'NSE:BHEL', 'resolution': '15', 'date_format': '1', 'range_from': '2023-12-02', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701947666627 :: {'s': 'error', 'code': -300, 'message': 'Please provide a valid symbol'}
+
+1701947666635 :: tradebook :: None :: 1701947666952 :: {'s': 'ok', 'code': 200, 'message': '', 'tradeBook': []}
+
+1701947728314 :: history :: {'symbol': 'NSE:BHEL', 'resolution': '15', 'date_format': '1', 'range_from': '2023-12-02', 'range_to': '2023-12-07', 'cont_flag': '1'} :: 1701947728544 :: {'s': 'error', 'code': -300, 'message': 'Please provide a valid symbol'}
+
+1701947728548 :: history :: {'symbol': 'NSE:SBIN-EQ', 'resolution': 'D', 'date_format': '0', 'range_from': '1690895316', 'range_to': '1691068173', 'cont_flag': '1'} :: 1701947728745 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1701947756407 :: history :: {'symbol': 'NSE:SBIN-EQ', 'resolution': 'D', 'date_format': '0', 'range_from': '1690895316', 'range_to': '1691068173', 'cont_flag': '1'} :: 1701947756847 :: {'s': 'error', 'code': -300, 'message': ''}

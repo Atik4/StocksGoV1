@@ -1,0 +1,20 @@
+
+1702027804082 :: history :: {'symbol': 'NSE:APOLLOTYRE-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-20', 'range_to': '2023-12-08', 'cont_flag': '1'} :: 1702027804524 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1702027805031 :: history :: {'symbol': 'NSE:ASTRAL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-20', 'range_to': '2023-12-08', 'cont_flag': '1'} :: 1702027805232 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1702027805758 :: history :: {'symbol': 'NSE:ABFRL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-20', 'range_to': '2023-12-08', 'cont_flag': '1'} :: 1702027805978 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1702027806489 :: history :: {'symbol': 'NSE:ALKEM-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-20', 'range_to': '2023-12-08', 'cont_flag': '1'} :: 1702027806697 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1702027807257 :: history :: {'symbol': 'NSE:AARTIIND-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-20', 'range_to': '2023-12-08', 'cont_flag': '1'} :: 1702027807511 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1702027808021 :: history :: {'symbol': 'NSE:ABB-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-20', 'range_to': '2023-12-08', 'cont_flag': '1'} :: 1702027808226 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1702027808734 :: history :: {'symbol': 'NSE:BEL-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-20', 'range_to': '2023-12-08', 'cont_flag': '1'} :: 1702027808940 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1702027809464 :: history :: {'symbol': 'NSE:AUBANK-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-20', 'range_to': '2023-12-08', 'cont_flag': '1'} :: 1702027809682 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1702027810204 :: history :: {'symbol': 'NSE:BAJFINANCE-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-20', 'range_to': '2023-12-08', 'cont_flag': '1'} :: 1702027810392 :: {'s': 'error', 'code': -300, 'message': ''}
+
+1702027810908 :: history :: {'symbol': 'NSE:BATAINDIA-EQ', 'resolution': '60', 'date_format': '1', 'range_from': '2023-11-20', 'range_to': '2023-12-08', 'cont_flag': '1'} :: 1702027811130 :: {'s': 'error', 'code': -300, 'message': ''}

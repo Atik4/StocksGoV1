@@ -1,0 +1,25 @@
+Current portfolio tracker
+Watchlist tracker
+Screener for new stocks
+Market overview
+
+Watchlist tracker:
+Looks for any good price action
+Breaking out from an important level
+Breaking from 100 day, 200 day avwap or so on. (The longer the better)
+Notifies all of this via text message.
+Feature for putting buy orders automatically or manually based on preference.
+
+Current portfolio tracker:
+Analysis of current holdings and performance of those stocks.
+Keeping track of their price action. If they are taking support at key levels/MAs or avwaps.
+Notification if any of those stocks hit a stop loss, show any bearish price action or breakout further from avwap.
+
+Screener for new stocks:
+Screening for new stocks based on breakouts from avwap or any other positive price action.
+
+Market overview:
+Market overview of the day. How many stocks are bullish, bearish or neutral.
+Analysis of the market and how it is performing.
+Analysis of the different indices
+Sector analysis
