@@ -33,7 +33,17 @@ data_to_write = []
 # Loop through the results and store them in a list
 for row in result:
     # Append a dictionary with both the document ID and the content
-    document_data = {"id": row['doc_id'], f"{bucket_name}": row[f'{bucket_name}']}
+    stock_ohlc = row['stock_ohlc']
+    document_data = {
+        "id": row['doc_id'],
+        "time": stock_ohlc['time'],
+        "symbol": stock_ohlc['symbol'],
+        "open": stock_ohlc['open'],
+        "high": stock_ohlc['high'],
+        "low": stock_ohlc['low'],
+        "close": stock_ohlc['close'],
+        "volume": stock_ohlc['volume']
+    }
     data_to_write.append(document_data)
 
 

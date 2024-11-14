@@ -3,8 +3,11 @@ from utils import get_historical_data, convert_column_from_epoch_to_date, get_hi
 from calendar_utils import get_anchor_date_for_ma, get_anchor_date, get_today_in_yyyy_mm_dd
 import pandas as pd
 from mainV3 import fyers
-# from dao import ohlc_couchbase_dao
-from dao import couchbase_cloud
+from dao import ohlc_couchbase_dao
+# from dao import couchbase_cloud
+from dao import ohlc_dao
+from dao.ohlc_couchbase_dao_cloud import CouchbaseCloud
+from dao.ohlc_couchbase_dao_local import CouchbaseLocal
 
 # def get_candles_data_for_ma(symbol, timeframe, period, fyers):
 #     today = datetime.date.today()
@@ -101,5 +104,7 @@ def get_last_traded_price(symbol):
 
 def fetch_data_for_screener_with_start_date(start_date, timeframe):
     end_date = get_today_in_yyyy_mm_dd()
-    df = couchbase_cloud.query_all_stocks_data_between_time_range(start_date, end_date)
+    # dao = CouchbaseCloud()
+    dao = CouchbaseLocal()
+    df = dao.query_all_stocks_data_between_time_range(start_date, end_date)
     return df

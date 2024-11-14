@@ -82,8 +82,8 @@ if cluster:
         # fetch_document("3MINDIA_2016-07-20_000000")
 
         # Query stock data
-        # df = query_stock_data("ASIANPAINT", "2024-01-01", "2024-01-20")
-        # print(df)
+        df = query_stock_data("ASIANPAINT", "2024-01-01", "2024-01-20")
+        print(df)
 
         #Query all data
         df = query_all_stocks_data_between_time_range("2024-01-01", "2024-01-20")
